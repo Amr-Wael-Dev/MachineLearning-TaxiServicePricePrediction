@@ -1,4 +1,4 @@
-# MachineLearning-TaxiServicePricePrediction/TaxiServicePriceClassification
+# MachineLearning-TaxiServicePricePrediction
 
 ### FCIS's Machine Learning Course Project - Taxi Service Price Prediction, And Taxi Service Price Classification
 
@@ -12,6 +12,11 @@ The use of taxi service providers such as Uber, Kareem and Lyft has become almos
 - The objective of the project is to be prepared to apply different machine learning algorithms to real-world tasks. This will help me to increase my knowledge about the workflow of the machine learning tasks. I learned how to clean data, apply pre-processing, feature engineering, regression, and classification methods
 - There are 2 large datasets. one is for regression, and the other is for classification
 - There are small test datasets used for verification
+
+---
+
+## Regression: https://github.com/Amr-Wael-Dev/MachineLearning-TaxiServicePricePrediction/blob/main/README.md#regression
+## Classification: https://github.com/Amr-Wael-Dev/MachineLearning-TaxiServicePricePrediction/blob/main/README.md#classification
 
 ---
 
